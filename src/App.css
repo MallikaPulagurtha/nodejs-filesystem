@@ -1,0 +1,10 @@
+.file {
+  padding: 10px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+#icon {
+  padding: 5px;
+}
